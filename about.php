@@ -33,7 +33,7 @@ if(!isset($user_id)){
 
 <div class="heading">
    <h3>about us</h3>
-   <p> <a href="home.php">home</a> / about </p>
+   <p> <a href="home.php">Home</a> / About </p>
 </div>
 
 <section class="about">
@@ -57,12 +57,12 @@ if(!isset($user_id)){
 
 <section class="reviews">
 
-   <h1 class="title">client's reviews</h1>
+   <h1 class="title">Testimonials</h1>
 
    <div class="box-container">
 
       <div class="box">
-         <img src="images/pic-1.png" alt="">
+         <img src="images/s.png" alt="">
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
          <div class="stars">
             <i class="fas fa-star"></i>
@@ -71,11 +71,11 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Shreyam</h3>
       </div>
 
       <div class="box">
-         <img src="images/pic-2.png" alt="">
+         <img src="images/ss.jpg" alt="">
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
          <div class="stars">
             <i class="fas fa-star"></i>
@@ -84,11 +84,11 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Sushil</h3>
       </div>
 
       <div class="box">
-         <img src="images/pic-3.png" alt="">
+         <img src="images/j.jpg" alt="">
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
          <div class="stars">
             <i class="fas fa-star"></i>
@@ -97,10 +97,10 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Jeet</h3>
       </div>
 
-      <div class="box">
+      <!-- <div class="box">
          <img src="images/pic-4.png" alt="">
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad, quo labore fugiat nam accusamus quia. Ducimus repudiandae dolore placeat.</p>
          <div class="stars">
@@ -137,7 +137,7 @@ if(!isset($user_id)){
             <i class="fas fa-star-half-alt"></i>
          </div>
          <h3>john deo</h3>
-      </div>
+      </div> -->
 
    </div>
 
@@ -145,44 +145,44 @@ if(!isset($user_id)){
 
 <section class="authors">
 
-   <h1 class="title">greate authors</h1>
+   <h1 class="title">Authors</h1>
 
    <div class="box-container">
 
       <div class="box">
-         <img src="images/author-1.jpg" alt="">
+         <img src="images/a1.jpg" alt="">
          <div class="share">
-            <a href="#" class="fab fa-facebook-f"></a>
-            <a href="#" class="fab fa-twitter"></a>
-            <a href="#" class="fab fa-instagram"></a>
-            <a href="#" class="fab fa-linkedin"></a>
+            <a href="https://www.facebook.com/JKRowling" class="fab fa-facebook-f"></a>
+            <a href="https://twitter.com/jk_rowling?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="fab fa-twitter"></a>
+            <a href="https://www.instagram.com/jkrowling_official/?hl=en" class="fab fa-instagram"></a>
+            <a href="https://www.jkrowling.com/" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>JK Rowling</h3>
       </div>
 
       <div class="box">
-         <img src="images/author-2.jpg" alt="">
+         <img src="images/author-2.jfif" alt="">
          <div class="share">
-            <a href="#" class="fab fa-facebook-f"></a>
-            <a href="#" class="fab fa-twitter"></a>
-            <a href="#" class="fab fa-instagram"></a>
-            <a href="#" class="fab fa-linkedin"></a>
+            <a href="https://www.facebook.com/rick.riordan.author" class="fab fa-facebook-f"></a>
+            <a href="https://twitter.com/rickriordan" class="fab fa-twitter"></a>
+            <a href="https://www.instagram.com/rickriordan/" class="fab fa-instagram"></a>
+            <a href="https://rickriordan.com/" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Rick Riordian</h3>
       </div>
 
       <div class="box">
-         <img src="images/author-3.jpg" alt="">
+         <img src="images\a3.jpg" alt="">
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
-            <a href="#" class="fab fa-twitter"></a>
+            <a href="https://twitter.com/chetan_bhagat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="fab fa-twitter"></a>
             <a href="#" class="fab fa-instagram"></a>
-            <a href="#" class="fab fa-linkedin"></a>
+            <a href="http://www.chetanbhagat.com/" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Chetan Bhagat</h3>
       </div>
 
-      <div class="box">
+      <!-- <div class="box">
          <img src="images/author-4.jpg" alt="">
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
@@ -215,7 +215,7 @@ if(!isset($user_id)){
          <h3>john deo</h3>
       </div>
 
-   </div>
+   </div> -->
 
 </section>
 
